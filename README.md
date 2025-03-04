@@ -1,7 +1,7 @@
 <h1>🎭 CLI Random Joke Generator</h1>
 A simple Node.js command-line tool that fetches and displays random jokes from an API to make you laugh! 😆
 
-🚀 Features
+<h2>🚀 Features</h2>
 ✅ Fetches a random joke from the Official Joke API.
 ✅ Uses Chalk for colorful output.
 ✅ Displays joke type, setup, and punchline.
