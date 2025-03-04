@@ -1,11 +1,11 @@
 🎭 CLI Random Joke Generator
-A simple Node.js command-line tool that fetches and displays random jokes to lighten up your day! 😆
+A simple Node.js command-line tool that fetches and displays random jokes from an API to make you laugh! 😆
 
 🚀 Features
-✅ Fetches random jokes instantly.
-✅ Supports programming, general, and pun jokes.
-✅ Works offline (with preloaded jokes) or online (via API).
-✅ Simple and fast CLI interface.
+✅ Fetches a random joke from the Official Joke API.
+✅ Uses Chalk for colorful output.
+✅ Displays joke type, setup, and punchline.
+✅ Simple and lightweight CLI tool.
 
 🛠️ Installation
 1️⃣ Clone the Repository
@@ -20,23 +20,28 @@ Copy
 Edit
 npm install  
 🎯 Usage
-Get a Random Joke
+Run the Joke Generator
 bash
 Copy
 Edit
 node joke.js
-Get a Joke by Category
-bash
-Copy
-Edit
-node joke.js --category=programming
-Available categories: general, programming, pun
-
 🌐 API Support
 This CLI fetches jokes from:
 
 Official Joke API
 🏗️ Built With
-Node.js (Axios, Chalk, Commander.js)
+Node.js
+HTTPS Module – Fetches jokes from the API.
+Chalk – Adds colors to terminal output.
+🔧 Dependencies
+Make sure you have Node.js installed, then install required packages:
+
+bash
+Copy
+Edit
+npm install chalk
 🤝 Contributing
-Want to add more jokes? Fork the repo, make changes, and submit a PR! 🎉
+Want to improve the joke generator? Fork the repo, make changes, and submit a PR! 🎉
+
+📜 License
+This project is MIT Licensed.
