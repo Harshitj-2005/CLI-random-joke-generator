@@ -12,7 +12,7 @@ To use this project, follow these steps:
 
 1. Clone the repository or create a new directory:
    ```sh
-   git clone <your-repo-url>
+   git clone <https://github.com/Harshitj-2005/CLI-random-joke-generator.git>
    cd your-project-folder
    ```
 
