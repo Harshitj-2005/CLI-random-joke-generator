@@ -58,9 +58,6 @@ If you want to contribute:
 4. Push the branch (`git push origin feature-branch`)
 5. Open a pull request
 
-## 📜 License
-This project is open-source and available under the MIT License.
-
 ---
 
 Happy coding! 😊
